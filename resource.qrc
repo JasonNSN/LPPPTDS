@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resource/icon.png</file>
+    <file>resource/flash(#D2F6EE).png</file>
+    <file>resource/pause(#1ECE9E).png</file>
+    <file>resource/play(#1ECE9E).png</file>
+    <file>resource/backward(#1ECE9E).png</file>
+    <file>resource/forward(#1ECE9E).png</file>
+    <file>resource/import(D2F6EE).png</file>
+    <file>resource/save(D2F6EE).png</file>
+    <file>resource/recognize(D2F6EE).png</file>
+    <file>resource/swap.png</file>
+  </qresource>
+</RCC>
