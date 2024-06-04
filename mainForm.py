@@ -920,7 +920,7 @@ class Ui_Form(object):
         self.tbtn_swap.setText(_translate("Form", "车牌随机替换"))
         self.tbtn_detection.setText(_translate("Form", "车牌篡改检测"))
         self.lb_swap.setText(_translate("Form", "车牌随机替换"))
-        self.lb_tip_swap.setText(_translate("Form", "在随机替换完毕后可以单击车牌选取不想替换的车牌"))
+        self.lb_tip_swap.setText(_translate("Form", "视频中的每个车牌将被随机替换为虚拟车牌"))
         self.btn_swap.setText(_translate("Form", "一键替换"))
         self.btn_backward_swap.setToolTip(_translate("Form", "向前1秒"))
         self.btn_backward_swap.setShortcut(_translate("Form", "Left"))
